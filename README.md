@@ -1,6 +1,6 @@
-# fletbdsqlite
-Aplicativo para Windows
-Plataforma: Desktop (Windows).
+# fletbdsqlite<br>
+Aplicativo para Windows<br>
+Plataforma: Desktop (Windows).<br>
 Banco de Dados: Utiliza SQLite como base de dados local.
 Funcionalidade Principal: Cadastro e gerenciamento de atletas, onde o usuário pode inserir dados como nome, idade, categoria e outras informações relevantes.
 Manipulação de Turmas: Além do cadastro individual de atletas, o aplicativo permite organizar os atletas em turmas (grupos) com base em critérios como idade, nível de habilidade ou qualquer outro parâmetro definido. O usuário pode criar, editar e gerenciar essas turmas.
